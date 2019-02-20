@@ -32,6 +32,12 @@
                     android:text="全部"
                     android:textSize="17sp"
                     android:textColor="#3D4147"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="修复"
+                    android:gravity="center"
+                    android:layout_alignParentRight="true"/>
             </RelativeLayout>
         </android.support.v7.widget.Toolbar>
     </android.support.design.widget.AppBarLayout>
